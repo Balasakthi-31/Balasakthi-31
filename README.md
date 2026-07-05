@@ -31,14 +31,13 @@
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
-
 </p>
 
 ---
 
 ## 🚀 Projects
+
+✅UnavuHub – Online Food Ordering
 
 ✅ AgriGuru - Smart Farming Assistant
 
@@ -52,13 +51,17 @@
 
 ## 🏆 Certifications
 
-✔ Oracle Cloud Infrastructure Foundations
-
-✔ OCI AI Foundations
-
-✔ Google Generative AI
-
-✔ AWS DevOps Fundamentals
+✔ Oracle Cloud Infrastructure AI Foundations Associate
+✔ NPTEL Programming in Java – Elite + Silver
+✔ Google Cloud – Introduction to Generative AI
+✔ Fundamentals of DevOps on AWS
+✔ Full Stack Web Development
+✔ MongoDB – Unstop (2026)
+✔ JavaScript ES6 with AI – Unstop (2026)
+✔ HTML with AI – Unstop (2026)
+✔ CSS with AI – Unstop (2026)
+✔ HackerRank Skill Certifications – Python, SQL, CSS
+✔ Gemini AI Certified Student
 
 ---
 
@@ -76,29 +79,13 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Balasakthi-31&theme=radical&margin-w=10"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Balasakthi-31/Balasakthi-31/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
+
+<a href="https://balasakthi-31.github.io/portfolio1/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge"/>
+</a>
 
 <a href="https://github.com/Balasakthi-31">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
